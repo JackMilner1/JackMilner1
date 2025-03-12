@@ -1,6 +1,7 @@
-Hello There 👋, 
+## Hello There 👋
 
-. My name is Jack Milner
-. Currently studying Computer Science at the University of Hertfordshire 📖
-. Currently making a chess engine using python with the pygame library ♛
-
+. My name is Jack Milner\
+\
+. Studying Computer Science at the **University of Hertfordshire** 📖\
+\
+. Currently making a chess engine using Python with the Pygame library ♛
