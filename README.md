@@ -6,5 +6,5 @@
 * Musician and [pixel artist](https://jackmilner1.itch.io) 🎸
 \
 ```python
-print("End of profile section'")
+print("End of profile section")
 return
