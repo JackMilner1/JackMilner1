@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/86f08dc1-5098-42c2-b193-5a05699baa48.svg)](https://wakatime.com/@86f08dc1-5098-42c2-b193-5a05699baa48)
 # Hello There 👋
 
 * My name is Jack
