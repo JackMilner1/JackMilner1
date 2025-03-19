@@ -17,7 +17,6 @@ The 'engima chess engine' is the project I am currently developing using **pygam
 \
 The project can be found [**here**](https://github.com/JackMilner1/chess)
 ### 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jackmilner)
 ## Contact
 * Email - [jackellismilner@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=jackellismilner@gmail.com)
-###
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jackmilner)
