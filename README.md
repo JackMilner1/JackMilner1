@@ -6,7 +6,7 @@
 * Game development
 ## Skills
 * Programming languages: **Python**; C#; Javascript; HTML & CSS; SQL
-* Programming frameworks: PyTorch; Tensor Flow; Pygame
+* Programming frameworks: PyTorch; Tensor Flow; Pygame; Selenium
 * Technologies: VScode; Git; Github; Godot
 ## Projects
 ### Enigma Chess Engine (01/01/2025 - Present) [![wakatime](https://wakatime.com/badge/user/86f08dc1-5098-42c2-b193-5a05699baa48/project/7239718c-4401-49ae-bf30-3c767e433e10.svg)](https://wakatime.com/badge/user/86f08dc1-5098-42c2-b193-5a05699baa48/project/7239718c-4401-49ae-bf30-3c767e433e10)
