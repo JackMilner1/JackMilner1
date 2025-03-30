@@ -5,7 +5,7 @@
 * Graph theory
 * Game development
 ## Skills
-* Programming languages: **Python**; C#; Javascript; HTML & CSS; SQL
+* Programming languages: **Python**; C#; C++; Javascript; HTML & CSS; SQL
 * Programming frameworks: PyTorch; Tensor Flow; Pygame; Selenium
 * Technologies: VScode; Git; Github; Godot
 ## Projects
