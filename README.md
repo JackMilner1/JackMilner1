@@ -1,10 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JackMilner1&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=JackMilner1\&layout=compact&theme=dark" alt="stat" />
 
 ###
 # Jack Milner [![wakatime](https://wakatime.com/badge/user/86f08dc1-5098-42c2-b193-5a05699baa48.svg)](https://wakatime.com/@86f08dc1-5098-42c2-b193-5a05699baa48)
 ### ***B.Sc. Student***
 **University of Hertfordshire** 
 ## Interests
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JackMilner1&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="stat" />
+
 * Graph theory
 * Game development
 ## Skills
