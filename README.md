@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=JackMilner1\&layout=compact&theme=transparent" alt="stat" />
 
 ###
-# Jack Milner [![wakatime](https://wakatime.com/badge/user/86f08dc1-5098-42c2-b193-5a05699baa48.svg)](https://wakatime.com/@86f08dc1-5098-42c2-b193-5a05699baa48)
+# Jack Milner
 ### ***B.Sc. Student***
 **University of Hertfordshire** 
 ## Interests
