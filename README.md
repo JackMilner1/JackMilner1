@@ -17,7 +17,7 @@
 The 'engima chess engine' is the project I am currently developing using **pygame**. This engine also has front end user interface where the user can play with the engine and a tutorial section for people new to chess how want to learn to play. 
 The project can be found [**here**](https://github.com/JackMilner1/chess)
 ###
-![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVtMTd5emtuODR0MDV5azUzZHFvYTJsdWIyN3FvcmozYzN4YjRqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdGhRLpWaQPRXpnHuV/giphy.gif)
+[![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVtMTd5emtuODR0MDV5azUzZHFvYTJsdWIyN3FvcmozYzN4YjRqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdGhRLpWaQPRXpnHuV/giphy.gif)](https://github.com/JackMilner1/chess)
 ###
 ##
 [Full Project list](https://github.com/JackMilner1/Stats/tree/main)
