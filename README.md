@@ -9,9 +9,9 @@
 * Graph theory
 * Game development
 ## Skills
-* Programming languages: **Python**; C#; C++; Javascript; HTML & CSS; SQL
-* Programming frameworks: PyTorch; Tensor Flow; Pygame; Selenium
-* Technologies: VScode; Git; Github; Godot
+* Programming languages: **Python**; C#; Luau; Java
+* Programming frameworks: Pygame; Selenium
+* Technologies: VScode; Git; Github; Godot; Roblox Studio
 ## Projects
 ### Enigma Chess Engine (01/01/2025 - Present)
 The 'engima chess engine' is a project I developed using **pygame**. This engine also has front end user interface where the user can play with the engine and a tutorial section for people new to chess how want to learn to play. 
