@@ -5,7 +5,7 @@
 # Jack Milner
 ### ***B.Sc. Student***
 **University of Hertfordshire**
-## Interests <img align="right" src="https://github-readme-stats.vercel.app/api?username=JackMilner1&show_icons=true&theme=transparent&hide_title=true&hide_rank=false" alt="stat" />
+## Interests 
 * Graph theory
 * Game development
 ## Skills
